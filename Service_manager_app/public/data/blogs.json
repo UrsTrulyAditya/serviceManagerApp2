@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "5 Benefits of Aromatherapy",
+    "excerpt": "Discover how aromatherapy can reduce stress and improve sleep...",
+    "content": "Aromatherapy is one of the most popular natural therapies for relaxation and wellness. The soothing scents of essential oils like lavender, chamomile, and peppermint have been proven to calm the mind and body. People use aromatherapy to reduce stress, improve sleep quality, boost their mood, and even relieve headaches and muscle pain. In today’s busy lifestyle, adding aromatherapy to daily routines can create moments of peace and balance, helping you feel healthier and more energized.",
+    "image": "/assets/images/ayurvedic.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Why Yoga Improves Productivity",
+    "excerpt": "Yoga is more than exercise – it boosts focus and energy...",
+    "content": "Yoga is not just a physical exercise but also a powerful tool for mental clarity and focus. Regular practice helps reduce stress levels, improves posture, and increases energy, making it easier to stay productive throughout the day. Many professionals find that even short yoga sessions help them concentrate better, manage workloads calmly, and avoid burnout. By combining breathing techniques with mindful movement, yoga creates a sense of balance that directly improves efficiency at work and overall well-being.",
+    "image": "/assets/images/yoga.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Spa Treatments in 2025",
+    "excerpt": "Check out the most popular spa treatments people love...",
+    "content": "Spas in 2025 are offering a blend of traditional therapies and modern wellness experiences. Popular treatments include relaxing massages, advanced facials, and personalized detox programs designed to refresh both body and mind. People are also embracing yoga and mindfulness sessions as part of their spa visits, creating a holistic approach to wellness. At the same time, innovative methods like float therapy, sound healing, and wellness coaching are becoming mainstream. These treatments not only provide relaxation but also long-term health benefits, making spa culture more relevant than ever.",
+    "image": "/assets/images/mass.jpg"
+  }
+]
